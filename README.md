@@ -16,6 +16,7 @@ Actualmente trabajo con **React Native**, **React**, **PHP** y **MySQL**, integr
 ## 🛠️ Tecnologías
 
 ### Frontend
+- VUE.js (En proceso)
 - React
 - React Native
 - TypeScript
