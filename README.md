@@ -26,6 +26,7 @@ Actualmente trabajo con **React Native**, **React**, **PHP** y **MySQL**, integr
 - PHP (MVC)
 - Node.js (básico)
 - APIs REST
+- Laravel (En proceso)
 
 ### Base de datos
 - MySQL
