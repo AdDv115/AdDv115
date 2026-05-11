@@ -45,17 +45,9 @@ Me caracterizo por el aprendizaje constante, la mejora continua del código y la
 
 ## 📂 Proyectos destacados
 
-### 📱 Servibarrio
-Aplicación móvil para la gestión de tareas y solicitudes de servicios, con manejo de roles (miembro / técnico), notificaciones y almacenamiento local.  
-Tecnologías: React Native, TypeScript.
-
 ### 🍽️ Sistema de Restaurante
 Sistema web para la gestión de pedidos, reservas, mesas y usuarios.  
 Tecnologías: PHP (MVC), MySQL.
-
-### 📅 Sistema de Citas
-Aplicación web para la gestión de citas y usuarios con roles (cliente / admin).  
-Tecnologías: Vue.js, Laravel, MongoDB.
 
 ---
 
